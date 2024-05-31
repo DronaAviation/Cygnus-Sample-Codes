@@ -52,7 +52,7 @@ Implement auto-stabilization features to ensure smooth and stable flight under v
 
 For detailed information and instructions on each project, refer to the provided documentation.
 
-**[Download Project Documentation (PDF)](docs/Projects%20with%20Pluto_%20Using%20Cygnus%20IDE%20(Version%201.1).pdf)**
+**[Download Project Documentation (PDF)](Docs/Projects%20with%20Pluto_%20Using%20Cygnus%20IDE%20(Version%201.1).pdf)**
 
 ## Getting Started
 
