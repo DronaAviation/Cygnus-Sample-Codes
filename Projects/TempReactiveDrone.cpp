@@ -1,19 +1,33 @@
+/* Do not remove the include below */
 #include "PlutoPilot.h"
 #include "Sensor.h"
 #include "Utils.h"
 
-void plutoInit() {
-    // No spare hardware to be initialized
+int16_t temp;
+
+/* The setup function is called once at Pluto's hardware startup */
+void plutoInit()
+{
+    /* Add your hardware initialization code here */
 }
 
-void onLoopStart() {
-    LED.flightStatus(DEACTIVATE); // Disable default LED behaviour
+/* The function is called once before plutoLoop when you activate Developer Mode */
+void onLoopStart()
+{
+    /* do your one time tasks here */
 }
 
-void plutoLoop() {
-    // Temperature reactive logic
+/* The loop function is called in an endless loop */
+void plutoLoop()
+{
+    /* Add your repeated code here */
+    temp = Barometer.get(TEMPERATURE) / 100; /* Get current Temperature */
+    Graph.red(temp, 1);
+    Monitor.println("Temperature", temp);
 }
 
-void onLoopFinish() {
-    LED.flightStatus(ACTIVATE); // Enable default LED behaviour
+/* The function is called once after plutoLoop when you deactivate Developer Mode */
+void onLoopFinish()
+{
+    /* do your cleanup tasks here */
 }
