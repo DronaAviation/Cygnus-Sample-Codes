@@ -1,4 +1,4 @@
-# Pluto Drone Projects Using Cygnus IDE
+# Projects With Pluto Using Cygnus IDE
 
 Welcome to the repository for various projects developed for Pluto using the Cygnus IDE. This repository includes a collection of C++ files, each corresponding to a unique project aimed at exploring and enhancing the capabilities of Pluto drones.
 
@@ -52,7 +52,7 @@ Implement auto-stabilization features to ensure smooth and stable flight under v
 
 For detailed information and instructions on each project, refer to the provided documentation.
 
-**[Download Project Documentation (PDF)](path_to_pdf)**
+**[Download Project Documentation (PDF)](docs/Projects%20with%20Pluto_%20Using%20Cygnus%20IDE%20(Version%201.1).pdf)**
 
 ## Getting Started
 
@@ -65,7 +65,7 @@ For detailed information and instructions on each project, refer to the provided
    - Use the Pluto Controller app to enable Developer Mode.
 
 3. **Clone This Repository**:
-   - `git clone https://github.com/yourusername/pluto-drone-projects.git`
+   - `git clone https://github.com/DronaAviation/Cygnus-Sample-Codes.git`
    - Navigate to the project directory and open the desired project in Cygnus IDE.
 
 4. **Build and Flash**:
