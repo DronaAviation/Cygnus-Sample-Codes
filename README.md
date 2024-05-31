@@ -1,14 +1,14 @@
 # Pluto Drone Projects Using Cygnus IDE
 
-Welcome to the repository for various projects developed for Pluto drones using the Cygnus IDE. This repository includes a collection of C++ files, each corresponding to a unique project aimed at exploring and enhancing the capabilities of Pluto drones.
+Welcome to the repository for various projects developed for Pluto using the Cygnus IDE. This repository includes a collection of C++ files, each corresponding to a unique project aimed at exploring and enhancing the capabilities of Pluto drones.
 
-## About Pluto Drones
+## About Pluto
 
-Pluto drones, developed by Drona Aviation, are designed to offer an exceptional user experience both in flight and tinkering. These drones serve as an excellent prototyping tool for innovators and tinkerers, allowing them to implement and test their ideas with ease. The Pluto platform includes hardware and software components, providing a seamless experience for users.
+Pluto (Drone), developed by Drona Aviation, is designed to offer an exceptional user experience both in flight and tinkering. These drones serve as an excellent prototyping tool for innovators and tinkerers, allowing them to implement and test their ideas with ease. The Pluto platform includes hardware and software components, providing a seamless experience for users.
 
 ## About Cygnus IDE
 
-Cygnus IDE is a development environment specifically tailored for programming Pluto drones. It simplifies the process of writing, testing, and deploying code onto Pluto drones. Cygnus IDE supports various features and APIs that make it easier for developers to create custom functionalities and control behaviors of their drones.
+Cygnus IDE is a development environment specifically tailored for programming Pluto . It simplifies the process of writing, testing, and deploying code onto Pluto drones. Cygnus IDE supports various features and APIs that make it easier for developers to create custom functionalities and control behaviors of their drones.
 
 **[Download Cygnus IDE](https://create.dronaaviation.com/software/drone-programming/cygnus-ide#downloads)**
 
